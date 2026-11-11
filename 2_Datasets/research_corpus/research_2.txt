@@ -1,0 +1,176 @@
+Now I see it, now I don’t:
+researcher’s position and
+reflexivity in qualitative
+research
+Roni Berger
+Adelphi University, USA
+Abstract
+This article addresses potential effects on reflexivity of researcher’s social position (e.g.
+gender, age, race, immigration status, sexual orientation), personal experiences, and political
+and professional beliefs. Because reflexivity is a major strategy for quality control in qualitative
+research, understanding how it may be impacted by the characteristics and experiences of the
+researcher is of paramount importance. Benefits and challenges to reflexivity under three types
+of researcher’s position are discussed and illustrated by means of case examples: (1) reflexivity
+when researcher shares the experience of study participants, (2) reflexivity when researcher
+moves from the position of an outsider to the position of an insider in the course of the study,
+and (3) reflexivity when researcher has no personal familiarity or experience with what is
+being studied. Strategies are offered for harvesting the benefits of researcher’s familiarity with
+the subject and for curbing its potentially negative effects. Directions for future research are
+suggested.
+Keywords
+insider–outsider, reflexivity, researcher position, rigor, trustworthiness
+The main purpose of this article is to argue and illustrate that reflexivity in qualitative research is affected by whether the researcher is part of the researched and shares
+the participants’ experience. Reflexivity has been increasingly recognized as a crucial strategy in the process of generating knowledge by means of qualitative research
+(Ahmed Dunya et al., 2011; Blaxter et al., 2006; D’Cruz et al., 2007; Gerstl-Pepin
+and Patrizion, 2009; Hammersley and Atkinson, 2002; Horsburgh, 2003; Koch and
+Harrington, 1998).For example, the journal Forum: Qualitative Research dedicated a
+full issue (May 2003) to subjectivity and reflexivity in qualitative research, and there
+Corresponding author:
+Roni Berger, School of Social Work, Adelphi University, 1 South Avenue, Garden City, NY 11530, USA.
+Email: berger@adelphi.edu
+468475QRJ0010.1177/1468794112468475Qualitative ResearchBerger
+2013
+Article
+220 Qualitative Research 15(2)
+is hardly any issue of a qualitative methods journal that does not include at least one
+article addressing issues pertaining to reflexivity.
+Questions about reflexivity are part of a broader debate about ontological, epistemological and axiological components of the self, intersubjectivity and the colonization of
+knowledge. This debate has gained central stage as employment of communication
+research methods continues to evolve and the use of the self expands in a diverse plethora of research strategies across disciplines including autobiography, autoethnography,
+narrative co-construction, and reflexive ethnography (Pensoneau-Conway and Toyosaki,
+2011; Wint, 2011). Consequently, researchers need to increasingly focus on self-knowledge and sensitivity; better understand the role of the self in the creation of knowledge;
+carefully self monitor the impact of their biases, beliefs, and personal experiences on
+their research; and maintain the balance between the personal and the universal.
+While some have used the concept of reflexivity interchangeably with related concepts, such as reflectivity and critical reflection, while others made efforts to differentiate
+meanings of these concepts (D’Cruz et al., 2007), the literature appears to reflect consensus relative to its meaning.Reflexivity is commonly viewed as the process of a continual
+internal dialogue and critical self-evaluation of researcher’s positionality as well as
+active acknowledgement and explicit recognition that this position may affect the
+research process and outcome (Bradbury-Jones, 2007; Guillemin and Gillam, 2004;
+Pillow, 2003; Stronach et al., 2007). Parallel to the expectation that clinical practitioners
+pay attention to the impact of their own history and issues on their understanding of and
+reactions to the client (conceptualized in psychodynamic language as counter transference), reflexivity is the self-appraisal in research. It means turning of the researcher lens
+back onto oneself to recognize and take responsibility for one’s own situatedness within
+the research and the effect that it may have on the setting and people being studied, questions being asked, data being collected and its interpretation. As such, the idea of reflexivity challenges the view of knowledge production as independent of the researcher
+producing it and of knowledge as objective.
+Relevant researcher’s positioning include personal characteristics, such as gender,
+race, affiliation, age, sexual orientation, immigration status, personal experiences, linguistic tradition, beliefs, biases, preferences, theoretical, political and ideological stances,
+and emotional responses to participant (Bradbury-Jones, 2007; Finlay, 2000; Hamzeh
+and Oliver, 2010; Horsburgh, 2003; Kosygina, 2005; Padgett, 2008; Primeau, 2003).
+These positions of the researcher may impact the research in three major ways. First,
+they can affect access to the ‘field’ because respondents may be more willing to share
+their experiences with a researcher whom they perceive as sympathetic to their situation
+(De Tona, 2006), and the researcher may be more knowledgeable about potentially helpful and informative resources. Second, they may shape the nature of researcher–
+researched relationship, which, in turn, affects the information that participants are
+willing to share; thus, a woman may feel more comfortable discussing sexual experiences with another woman than with a man. Finally, the worldview and background of
+the researcher affects the way in which he or she constructs the world, uses language,
+poses questions, and chooses the lens for filtering the information gathered from participants and making meaning of it, and thus may shape the findings and conclusions of the
+study (Kacen and Chaitin, 2006). For example, an interviewer who lost her father may
+Berger 221
+use the lens of this experience in making meaning of narratives of bereaved individuals
+(e.g. Valentine, 2007).
+While such effects exist in all types of research, qualitative researchers, particularly
+practitioner researchers, tend to recognize and address them as an inherent part of the
+research (Drake, 2010) and to use reflexivity as a means to monitor the tension between
+involvement and detachment of the researcher and the researched as a means to enhance
+the rigor of the study and its ethics (Bradbury-Jones, 2007; Gemignani, 2011; Pillow,
+2003).
+Relative to rigor, Horsburgh (2003) posited that
+Given that the researcher is intimately involved in both the process and product of the research
+enterprise, it is necessary for the reader to evaluate the extent to which an author identifies and
+explicates their involvement and its potential or actual effect upon the findings. (p. 309)
+One goal of reflexivity in qualitative research is to monitor such effects and thus enhance
+the accuracy of the research and ‘the credibility of the findings by accounting for
+researcher values, beliefs, knowledge, and biases’ (Cutcliffe, 2003: 137), that is, to gain
+plausibility by securing research’s trustworthiness (Buckner, 2005; Macbeth, 2001). As
+reflexivity is a researcher’s conscious and deliberate effort to be attuned to one’s own
+reactions to respondents and to the way in which the research account is constructed, it
+helps identify and explicate potential or actual effect of personal, contextual, and circumstantial aspects on the process and findings of the study and maintain their awareness of
+themselves as part of the world they study (Mason, 1996; Porter, 1993). Thus, it enhances
+the quality of the research by allowing researchers to ponder the ways in which who they
+are may both assist and hinder the process of co-constructing meanings (Lietz et al.,
+2006), frees them to handle and present the data better, and consider its complex meanings and contribution to the understanding of social phenomena and of the process
+involved in knowledge production. The absence of reflexivity may lead to acceptance of
+‘the apparent linearity, thereby obscuring all sorts of unexpected possibilities’ (Russel
+and Kelly, 2002: paragraph 37).
+Relative to the contribution of reflexivity to keeping the process of research ethical,
+Pillow (2003) stated that ‘reflexivity is situating the researcher as non-exploitative and
+compassionate toward the research subjects’, thus helping to address concerns regarding
+negative effects of power in researcher–researched relationships. Reflexivity helps maintain the ethics of the relationship between researcher and research by ‘decolonizing’ the
+discourse of the ‘other’ and securing that while interpretation of findings is always done
+through the eyes and cultural standards of the researcher, the effects of the latter on the
+research process is monitored (Frisina, 2006; Josselson, 2007; Smith, 1999).
+Reflexivity is crucial throughout all phases of the research process, including the
+formulation of a research question, collection and analysis of data, and drawing conclusions (Bradbury-Jones, 2007; Guillemin and Gillam, 2004). For example, during interviewing, being self-reflective helps the researcher to identify questions and content that
+he or she tends to emphasize or shy away from and to become aware of own reactions to
+interviews, thoughts, emotions, and their triggers. During content analysis and reporting,
+it helps in alerting oneself to ‘unconscious editing’ because of own sensitivities and thus
+222 Qualitative Research 15(2)
+enable fuller engagement with the data and more in-depth comprehensive analysis of it
+(Valentine, 2007).
+Reflexivity is demonstrated by use of first-person language and provision of a detailed
+and transparent report of decisions and their rationale. While traditionally viewed as a
+process of personal self-supervision, reflexivity has been expanded to include teams
+where members attend to their own biases as well as check on one another’s reactions
+(Horsburgh, 2003; Russel and Kelly, 2002). Strategies for maintaining reflexivity include
+repeated interviews with the same participants, prolonged engagement, members checking, triangulation, peer review, forming of a peer support network and back talk groups,
+keeping a diary or research journal for ‘self-supervision’, and creating an ‘audit trail’ of
+researcher’s reasoning, judgment, and emotional reactions (Ahern, 1999; BradburyJones, 2007; Fonow and Cook, 2005; Frisina, 2006; Padgett, 2008; Russel and Kelly,
+2002; Smith, 1999; Valentine, 2007).
+While the importance of reflexivity, its roles, purposes, and strategies to enhance it
+have been discussed and demonstrated (Gergen and Gergen, 1991; Hawes, 1991; Padgett,
+2008; Pillow, 2003), the relationship between reflexivity and the position of the researcher
+vis-à-vis the phenomenon under study has been only sparsely addressed and ‘the implications of theoretical and philosophical discussions about reflexivity, epistemology, and
+the construction of knowledge for empirical research remain undeveloped’ (Kacen and
+Chaitin, 2006: 215).
+This article discusses issues relative to reflexivity under varying types of researcher’s
+personal experience with the world being studied and illustrates them using my own
+work. I studied the experience of immigrant women 10 years after I relocated from Israel
+to New York; I had the opportunity to conduct a study of stepfamilies before and while I
+was becoming a part of one by remarrying a divorced father who stepped into the role of
+my son’s stepfather; and, I got involved in a study of the experience of abused divorcees
+with law guardians of their children, a situation which I have not shared. How did my
+different perspectives hold possibilities for seeing some meanings imbedded in the data
+and for obscuring such meanings? Examples from these studies are used to illustrate
+effects of my diverse positions in relation to the world and people I was studying on
+formulating research question, collecting data, and making sense of it.
+Have been there, have done that: reflexivity when
+studying the familiar
+I relocated from Israel to the United States in 1990 and started my study of the experience of immigrant women a decade later, when I was well established professionally and
+personally in my new country and legally a US citizen. At that time, I had had my share
+of encounters with unfriendly personnel of immigration services, coping with the hardships of reestablishing my credentials as well as my financial and social status; learning
+to live in a language, which was not my own; and coming to terms with my dual identity.
+Being part of the group under study means ‘simultaneously being an onlooker in the
+stalls and a member of the cast’ (Shaw, 1996: 10).
+Having shared the immigration experience with study participants positioned me in
+the role of the ‘insider’ and as such offered three advantages discussed by Padgett (2008)
+Berger 223
+and Kacen and Chaitin (2006) in studying the familiar: easier entrée, a head start in
+knowing about the topic and understanding nuanced reactions of participants. That
+researcher’s own experiences within various cultural locations can provide insight into
+culture has been illustrated in Richie’s (1995) explanation of how her frequent experiences with racism and sexism because of being an African-American helped her gain
+trust and achieve rapport with the incarcerated low-income African-American women
+whom she studied and helped her attain insight into their lives. Similar experience echoed in Ahmed Dunya et al.’s (2011) report of her study of visually impaired young people in Bahrain.
+My being an immigrant greatly facilitated recruiting participants. Women to whom I
+reached out to share with me their experiences were very receptive and cooperative.
+They expressed confidence that being an immigrant myself, I will be able to understand
+and represent their experiences and struggles better than a nonimmigrant researcher
+would as well as their desire to help an immigrant ‘sister’ (i.e. me) to achieve her goal. It
+also increased their and my level of comfort and assisted in developing a rapport – the
+moment they heard my accent, one could hear the sigh of relief and feel the atmosphere
+relax.
+My immigration status affected the process of data collection and data analysis in
+studying life stories of immigrant women (Berger, 2004) because it allowed me to
+approach the study with some knowledge (i.e. having ‘cultural intuition’ and insight)
+about the subject and to address certain topics more easily or even be aware that I should
+address them. Sharing the experience diminished distance and enhanced my willingness
+and ability to go places that I otherwise would not. It also affected interviewees’ expression. They often left sentences unfinished, acting under the assumption that ‘you know
+how …’ (e.g. these Immigration and Naturalization officers treat you). When my interviewees recounted that when they criticize any aspect of their host country, they were
+often told ‘if you do not like it here, go back to where you came from’ and how it made
+them feel, I knew too well what they are talking about. Furthermore, I was guided by my
+own experience to explore reactions from officials before the citizenship eligibility interview and after it, as the tone tends to change, I knew to ask how it felt to stand for the
+first time in the queue for US passport and Green Card holders in the airport and hear
+‘welcome home’ rather than a suspicious ‘Why do you want to come to America?’ They
+also gave me in numerous, often unspoken, gestures permission to address issues, which
+they would not allow nonimmigrants. Because of my insider position, I had to be constantly alert and rigorously reflect on how my presence and how I am shaped the conversation as well as explain that while we may have shared an experience, it was different
+for each, and I want to learn theirs.
+Finally, coming from the ‘shard experience’ posi

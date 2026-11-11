@@ -1,0 +1,312 @@
+Denzin’s Paradigm Shift: Revisiting Triangulation in Qualitative
+Research
+Patricia Fusch
+Walden University
+Gene E. Fusch
+Walden University
+Lawrence R. Ness
+Walden University
+One approach to promote social change, mitigate bias, and enhance reaching data saturation
+is through triangulation: multiple sources of data. Triangulation adds depth to the data that
+are collected. In this scholarly essay, the authors discuss the continuing relevance of Denzin’s
+approach to triangulation of data. Included is a critique of researchers who have posited
+other approaches to triangulation that appear to be merely a renaming of Denzin’s original
+paradigm rather new outcomes. The intended audience is novice researchers and doctoral
+students who can benefit from clarity on some common misconceptions about triangulation.
+Keywords: triangulation, Denzin, validity, reliability, confirmability, transferability, qualitative
+research, multiple data source, multiple data collection methods, mitigating bias, data saturation,
+social change
+Introduction
+Researchers often use a qualitative methodology to address social change despite the fact that most
+research does not study social change, per se. For example, Christensen’s disruptive innovations
+have had a major impact on industry structures, but the social changes are, for the most part,
+accidental and a byproduct of the adaptions (Christensen, Baumann, Ruggles, & Sadtler, 2006). In
+qualitative research, researchers accept that they cannot separate themselves from the research by
+bringing their personal experiences, values, and perspectives (Jackson, 1990). In other words,
+qualitative researchers bring their bias to the research, share their bias with the reader, and strive
+to mitigate their personal bias to ensure that they are correctly interpreting the other/participant.
+Likewise, Denzin (1978) argued that researchers bring their personal beliefs in addition to the social
+and political environment, which eliminates any possibility of conducting value-free research.
+Moreover, researchers often use a qualitative methodology to address social change, but struggle
+with concepts of objectivity, truth, and validity.
+Social science asks the following questions: Can social science be objective? Whose truth? Whose
+perspective of validity? Some qualitative researchers support to the postpositivist terms or reliability
+and validity, whereas others use the notion of dependability, credibility, transferability, and
+confirmability (Lincoln & Guba, 1985). Whether one is looking at qualitative research from a
+postpositivist, postmodernist, or other paradigm, it is vital to address one’s position in the research
+and show how one will ensure the trustworthiness of the research.
+Fusch, Fusch, & Ness, 2018
+Journal of Social Change 20
+One purpose of any study is to advance theory (Imenda, 2014) through either filling a gap (Vlok,
+2012) or confirming already existing evidence (Ayoko & Pekerti, 2008). This is then accomplished by
+an exhaustive literature review, an empirical study to gather the evidence, and then comparing the
+existing body of knowledge and the conceptual framework to the study results (Chernyak-Hai &
+Tzinder, 2014; Secomb & Smith, 2011). The overall purpose of any study is to answer the research
+question.
+One approach to mitigate bias is through triangulation: multiple sources of data (Jonsen & Jehn,
+2009). In qualitative research, triangulation adds depth to the data that is collected. This rich, indepth data supports a direct link between triangulation and data saturation (P. Fusch & Ness,
+2015). Denzin (2011) made the point that it is somewhat like looking through a crystal to perceive all
+the facets/viewpoints of the data. Moreover, he posited that triangulation should be reframed as
+crystal refraction (many points of light) to extrapolate the meaning inherent in the data, thereby
+mitigating one’s bias. This is especially important in qualitative research when one is using multiple
+data collection techniques to find the meaning that participants use to frame their world (Forsey,
+2010). Using strategies such as Denzin's triangulation techniques can assist with endeavors to
+understand the other. A researcher's cultural and experiential background contains biases, values,
+and ideologies that will have an influence on the interpretation of the study results (G. Fusch, 2001).
+Qualitative Research and Triangulation
+The application of triangulation (multiple sources of data) can enhance the reliability of the study
+results (Stavros & Westberg, 2009) and enable one to saturate the data (P. Fusch & Ness, 2015).
+Denzin (1989) noted that triangulation involves the employment of multiple external data collection
+methods concerning the same events may be enhanced by multiple external analysis methods.
+Triangulation is one method by which the researcher analyzes data and then presents the results to
+others to understand the experience of a common phenomenon (Denzin, 1989)
+A qualitative researcher seeks to define and interpret unclear phenomena through nonnumerical
+methods of measurement that focus on meaning and insight (Kakabadse & Steane, 2010).
+Exploratory research designs are conducted to clarify ambiguity and discover multiple realities
+(Kurt, Inman, & Argo, 2011), as well as ideas for later research. Therefore, qualitative research
+techniques help researchers define and interpret the ambiguities that exploratory research designs
+address (Thomas & Quinlan, 2014). Exploratory research can include interpretations of information
+gathered during investigations that consist of unstructured interviews, in-depth interviews, and
+direct observation of people, places, and phenomena (Dowlatshahi, 2010; Mansourian, 2008). Finally,
+exploratory research is used when the problem statement is unclear or inarticulate (Dowlatshahi,
+2010).
+Jackson (1990) discussed subjectivity in qualitative research and in particular cultural anthropology
+in her self-professed nonrandom sample of seventy anthropologists. The concept of "I am a fieldnote"
+or "I am the research instrument" focuses on the self in qualitative research. Researchers bring their
+personal milieu and values, which demonstrates subjectivity and relationships between
+insider/outsider and researcher/participant, further noting that some see this as strength, while
+others see it as a weakness (Draper & Swift, 2011). These relationships are present in all social
+research, both intentionally and unintentionally (Fields & Kafai, 2009). Jackson (1990) wrote that
+the personal reactions of Western anthropologists to native cultures should be of interest to
+researchers in addition to the study at hand. As Denzin and Lincoln (2011) stated, “qualitative
+Fusch, Fusch, & Ness, 2018
+Journal of Social Change 21
+research scholars have an obligation to change the world [to make] a positive difference. We are
+challenged to confront the facts of injustice… and hence open to change and transformation” (p. 511).
+It is what Gergen, Josselson, and Freeman (2015) referred to as the promise of qualitative inquiry, to
+promote social change by increasing knowledge and challenging conventions, to know with others as
+well as about them. It is the ability to promote social change through emancipatory action (Gergen &
+Zielke, 2006; MacDonald, 2012).
+To enhance social change through research, it is imperative that interpretations represent those of
+the participants and not of the researcher (Fields & Kafai, 2009). Draper and Swift (2011) made two
+good points in their work: (a) there is no universal accepted design for data collection, and (b) the
+researcher plays a central, key role in the data collection phase of the study. Fields and Kafai (2009)
+also made these points in their discussion of ethnographic research designs. One of the most
+challenging parts in qualitative research is to account for the use of a personal lens, primarily
+because novice researchers (like students) assume that they have no bias in their data collection.
+However, it is important to remember that a participant’s, as well as the researcher’s,
+bias/worldview is present in all social research, both intentionally and unintentionally (Fields &
+Kafai, 2009), which is why it is important to triangulate in qualitative research.
+Denzin’s Paradigm Shift: Triangulation in Qualitative Research
+Triangulation is an important concept regarding data analysis for an empirical study. To be sure,
+multiple external analysis methods concerning the same events and the validity of the process can be
+enhanced by triangulation (G. Fusch, 2001; P. Fusch & Fusch, 2015; P. Fusch & Ness, 2015;
+Marshall & Rossman, 2016). The importance of triangulation cannot be underestimated to ensure
+reliability and validity of the data and results .
+External validity is represented by the ability of a study’s conclusions to be transferred to other
+studies (Aastrup & Halldorsson, 2013). This should be possible regardless of populations, settings, or
+times (Aastrup & Halldorsson, 2013). Although external validity can be defined as transferring the
+findings of one study to other studies, qualitative researchers often prefer to use the concept of
+transferability to avoid the more positivist concept of generalizability (Lincoln & Guba, 1985). One
+should leave the transferability of the findings to the reader and future researchers to determine
+rather than the original researcher (Marshall & Rossman, 2016). A study has construct validity if
+the inferences that are made can be tied to the conceptual framework of the study (Amerson, 2011).
+Moreover, threats to construct validity are demonstrated by researcher bias and relying on a single
+measurement instrument (Amerson, 2011). Construct validity is proven by using multiple sources of
+data (triangulation), preserving the chain of evidence, and allowing key informants to review the
+data (Amerson, 2011). External validity is demonstrated by the ability of the study to be replicated,
+known as transferability (Roe & Just, 2009).
+What is important to remember is that the researcher mitigates bias through the data collection
+method that is appropriate for the study design. Hearing and understanding the perspective of others
+may be one of the most difficult dilemmas that face the researcher. The better a researcher is able to
+recognize his/her personal view of the world and to discern the presence of personal lenses, the better
+one is able to hear and interpret the behavior and reflections of others. For example, the use of
+methodological triangulation (multiple methods of data collection) will also assist in mitigating any
+researcher bias (Bekhet & Zauszniewski, 2012; Gorissen, van Bruggen, & Jochems, 2013; Horne &
+Horgan, 2012: Lloyd, 2011). The ability to look at the data from multiple perspectives and consider a
+phenomenon in more than one way assists in mitigating the potential to see the data from just one
+Fusch, Fusch, & Ness, 2018
+Journal of Social Change 22
+view (Denzin, 1989). Using triangulation such as multiple sources of data contributes to the
+reliability of results (Stavros & Westberg, 2009) and saturation of data (P. Fusch & Ness, 2015). A
+case study design with at least two data collection methods (Amerson, 2011; Houghton, Casey, Shaw,
+& Murphy, 2013) is one example of methodological triangulation.
+Qualitative researchers have special concerns regarding validity (Cho & Trent, 2011) and a key
+concept of reliability is the ability of instruments to elicit a response that remains constant over time
+(Golafshani, 2003). Beginning with the geometrical concept of triangulation used for centuries in
+ship navigation in which one draws the intersection between three known points to locate the ships
+position, Campbell and Fiskel (1959)—and later, Webb, Campbell, Schwartz, and Sechrest (1966)—
+introduced the notion of triangulating multiple sources of data to enhance the validity of research.
+Four Types of Triangulation
+Denzin (1970, 1978) built on the notion of triangulating multiple sources of data and developed four
+types of triangulation that qualitative researchers can use to enhance the enhance objectivity, truth,
+and validity (dependability and credibility) of social research. Denzin (1989) suggested data
+triangulation for correlating people, time, and space; investigator triangulation for correlating the
+findings from multiple researchers in a study; theory triangulation for using and correlating multiple
+theoretical strategies; and methodological triangulation for correlating data from multiple data
+collection methods.
+Data triangulation
+Data triangulation is often confused for methodological triangulation and is most likely the most
+frequent mistake that students make when discussing triangulation. An abbreviated way to think
+about data triangulation to avoid confusion is to consider what Denzin (2009) referred to as people,
+time, and space. These three data points (not methods to generate data) are inter-related and
+ongoing. Each data point represents different data of the same event; discovering commonalities
+within dissimilar settings. Furthermore, the data points take place over time to observe ongoing
+interactions—days, weeks, months, years.
+Investigator triangulation
+Simply put, there is more than one investigator/researcher exploring the phenomenon. Denzin (2009)
+pointed out that this does not include coders, graduate students/assistants, or data analysts. Rather,
+the persons with the best skills should be closest to the data. Bias is mitigated by different
+investigators observing the same data who may not agree on its interpretation
+Theory triangulation
+In theory triangulation, one applies different theories and alternative theories to the data set.
+Particularly, one views the data through a theoretical lens and through contradictory theories.
+Another strategic approach is to let the raw data speak to the researcher to ascertain a new theory.
+The point, as noted by Denzin (2009), is to widen one’s theoretical lens through a six-step process
+that expands one’s knowledge of the known.
+Methodological triangulation
+Denzin (1970, 1978) noted that methodological triangulation can be within method or between
+method (also known as across method), although the generally understood type is within method,
+such as multiple sources of data found within one design. For example, triangulating the data from
+multiple data collection methods (interviews, focus groups, observations, etc.) in a qualitative case
+study or ethnography would be within-method triangulation, whereas triangulating the data from a
+Fusch, Fusch, & Ness, 2018
+Journal of Social Change 23
+combination of quantitative and qualitative techniques in a mixed-methods study would be betweenmethod (or across method) triangulation. The challenge is that the inherent flaws within one method
+are still present and can impact the data. The ideal application, Denzin (2009) stated, is betweenmethod triangulation to account for flaws and deficiencies. Between-method triangulation takes the
+best of both to overcome the weakness of each. In-depth understanding of the phenomenon is the
+goal; validity is not always enhanced.
+Figure 1. The four types of triangulation. Source: P. Fusch and Fusch (2013)
+The Importance of Triangulation
+The importance of triangulation cannot be underestimated to ensure reliability and validity of the
+data and results. This occurs when the data is accurate and truthful (Roe & Just, 2009), when the
+inferences have a reasonable probability for actually occurring and can be tied back to the conceptual
+framework of the study (Roe & Just, 2009), and by the ability of a study’s conclusions to be
+transferred to other studies regardless of populations, settings, or times (Aastrup & Halldorsson,
+2013). It goes without saying that the study design is the most important component of the
+proposal—to ensure that one has the best opportunity to answer the research question (Marshall &
+Rossman, 2016).
+Fusch, Fusch, & Ness, 2018
+Journal of Social Change 24
+Researcher bias/worldview is a concern whether from the standpoint of the researcher or the
+participant (Chenail, 2011). Chenail (2011) pointed out that the establishment and implementation
+of an interview protocol is important to mitigate bias, especially if the researcher is also a member of
+the population pool being studied. Miscommunication between participants and researchers can
+especially arise from misunderstandings between the two (Chenail, 2011). This is especially
+apparent during an interview process, during which cultural differences can manifest in
+communication, making the use of an interview protocol important (Amerson, 2011).
+It would be impossible to remove all bias because one is a human being. Rather, one mitigates bias as
+best as one can (Amerson, 2011; Chenail, 2011). This is demonstrated through the use of an
+interview protocol, member checking, data saturation, and other strategies to mitigate the use of one
+personal lens during the data collection process of the study (Dibley, 2011; Torrance, 2012). Driving
+participants to predetermined conclusions speaks to the same concepts (Dibley, 2011). With oneself
+as a lens, a researcher observes and interacts with members of a culture to understand the culture,
+and then disseminates the researcher's interpretations to those outside the culture (P. Fusch, Ness,
+& Fusch, 2017).
+The easiest way to differentiate between rich and thick data is to think of rich as quality and thick as
+quantity. Thick data is a lot of data; rich data is many-layered, intricate, detailed, nuanced, and so
+on. One can have a lot of thick data that is not rich; conversely, one can have rich data but not a lot
+of it. The challenge, if you will, is to have both.
+Methodological Triangulation: Mixed Methods and Blended Designs
+Methodological triangulation adds depth to the data that is collected (Manganelli et al., 2014); it is
+perhaps the most frequent use of triangulation by students. Its use is especially important in
+qualitative research designs, in which one may have multiple data collection techniques to find the
+meaning that participants use to frame their world (Forsey, 2010). Some of the options that are
+available to students for methodological triangulation include interviews, focus groups, direct
+observation, document analysis (Internet, Intranet, company documents, and other media),
+participant observation, and field notes.
+Mixed methods
+For mixed methods, one uses between-method triangulation. Mixed methods combines both
+quantitative and qualitative methods (Almajali & Dahalin, 2011; Fielding, 2012; Hussein, 2009). A
+mixed-methods design has so much going for it—rich data, ability to reach data saturation easily, a
+comprehensive presentation of the study results (Green et al., 2015). However, along with its
+benefits, a mixed-methods design has a great deal of complexity in the data collection methods—
+much more than other designs (Baran, 2010; Bryman, 2008). One would have to have a great deal of
+knowledge regarding quantitative design as well as qualitative design (Halcomb & Andrew, 2009),
+which is not typically the case with novice researchers.
+Sometimes a mixed-methods strategy begins with a qualitative framework to fine-tune the questions
+to be asked in the quantitative phase (Baran, 2010). Regardless of the protocol, there is a distinct
+viewpoint where one design is dominant over the other (Baran, 2010; Bryman, 2008). As Bryman
+pointed out, mixed-methods research in the abstract is far different from how it is utilized in the
+field. Often, a mixed-methods study will begin with a qualitative method to identify and narrow
+down the problem. Then the quantitative method is used to answer the research question. This
+process can be reversed as well. Mixed methods is often described as methodological pluralism in
+that the use of both results in a broader perspective of the research topic (Azorin & Cameron, 2010)
+Fusch, Fusch, & Ness, 2018
+Journal of Social Change 25
+as opposed to what are known as monomethods—qualitative or quantitative (Baran, 2010). Finally,
+Denzin (2012) was somewhat critical of mixed-methods research, often referring to it as naïve
+postpositivism, although he appears to have softened his approach.
+Blended design
+Blended designs combine qualitative designs, for example, an ethnographic case study, a narrative
+case study design, or a grounded-theory case study design. To be sure, it is not that mixed methods is
+inherently difficult; it is that the approach should be one that answers the research question.
+Blended designs and mixed methods are often confused as being the same thing; however, the
+differences are important. A blended design remains within the same method; a mixed-methods
+approach is two methods, which makes it far more complicated than a blended design. A mixedmethods design will still reflect either a quantitative framework or a qualitative one (Baran, 2010;
+Bryman, 2008) because a quantitative mind set is different from a qualitative mindset in so many
+ways (Baran, 2010). That is why mixed methodology is often discouraged for novice researchers such
+as students, because the thought process can be too complicated at times.
+Typically, students think of blending as using a mixed-methods approach to research design;
+however, some students do not see that one can blend designs through using a phenomenological
+interview design with a case study approach. Another way to look at blending designs is to use a
+miniethnographic case study design (P. Fusch, Fusch, & Ness, 2017). One has the benefit of an
+ethnographic approach that is bounded within a case study protocol that is more feasible for a
+student researcher with limited time and finances.
+A blended design is often not an option mentioned to students because of its confusion with mixed
+methods; however, a blended design is an excellent way to obtain rich and thick data and is
+occasionally the answer when students are too often discouraged from conducting phenomenological
+studies. The challenge for students is to understand how to present the option to a reluctant
+committee; a phenomenological case study design can be seen from two perspectives: a case study
+design with phenomenological interviews or a phenomenological study that is bounded in time and
+space by a case study design. Reaching the point of saturating the data is much easier with case
+study design than with phenomenology. One further point we would add is that one can bound
+phenomenology with the sampling method. Another example is that the pairing of ethnography with
+case study design is a good choice because one can bind the ethnographic study within time and
+space with the case study design. Typically, ethnographers are in the field for years. If one were to
+pair it with case study design, one can then limit the time in the field to a timeframe that is more
+pragmatic for novice researchers such as students.
+The Postparadigm Shift
+Since Denzin initially defined the four types of triangulation in social research, there has been
+confusion between data triangulation and methodological triangulation. Many writers have
+attempted to expand on Denzin’s original work by attaching new names to the same concepts that
+Denzin discussed (Carter, Bryant-Lukosius, DiCenso, Blythe, & Neville, 2014; Humble, 2009;
+Wilson, 2014) or noting how triangulation appears to be another name for mixed-methods research.
+For example, Guion, Diehl, and McDonald’s (2011) cooperative extension publication presents the
+concept of environmental triangulation. The publication was originally written as an undergraduate
+paper and then expanded on by others.
+Upon a careful reading of the discussion, one finds that environmental triangulation is actually a
+renaming of the concepts found within data triangulation. For example, Guion et al. (2011) noted
+Fusch, Fusch, & Ness, 2018
+Journal of Social Change 26
+that environmental triangulation involves the use of multiple locations, settings, and other factors,
+which is too similar to Denzin’s discussion of people, time, and space of data triangulation.
+Moreover, one also finds that their discussion related to data triangulation is a surface level
+presentation that does not correctly define what data triangulation is and is not. Much of the
+discussion found in Guion et al. would be better applied to methodological triangulation. This is why
+it is so important to return to the primary source to understand the concepts of triangulation by
+reading Denzin’s (1970) seminal work.
+The Triangulation Confusion
+Frequently, we see confusion in qualitative research between data triangulation versus
+methodological triangulation. This appears to be an outcome of reading secondary data instead of
+going to the primary source. In some publications, researchers continued down the chain of
+secondary interpretation and an unclear representation led to an incorrect interpretation of Denzin’s
+work. For example, Patton (2002) cited Denzin and interpreted his definition of data triangulation as
+“the use of a variety of sources in a study” (p. 247) and methodological triangulation as “the use of
+multiple methods to study a single problem or program” (p. 247). Rather than synthesizing Denzin’s
+seminal work, Yin (2014) cited Patton’s text and noted that “Patton (2002) discusses four types of
+triangulation in doing evaluations” and identified data triangulation as “of different sources” and
+methodological triangulation as “of methods” (p. 120). Patton (2002) provided a good introductory
+text and introduced the basic concept of triangulation, leaving the reader to look up Denzin’s work
+for more detail. Yin is a leader in case study research; however, in this case, he elaborated on
+Patton’s basic interpretation and stated that data triangulation “is to collect information from
+multiple sources but aimed at collaborating the same finding” (Yin, 2014, p. 120). Yin went on to
+provide examples of multiple sources one can use for data triangulation as documents, archival
+records, open-ended interviews, participant and direct observations, and so forth, which appears to
+contradict Denzin’s definitions. When one looks at the concept of triangulation through a chain of
+interpretations rather than going to the seminal source, one can add to the confusion in the
+literature. When one goes back to the seminal source and looks at Denzin’s (1989) definitions, one
+would find that “data triangulation has three subtypes: (a) time, (b) space, and (c) persons,” whereas
+“methodological triangulation can entail within-method and between-method triangulations” (p.
+237). We argue that researchers should identify the seminal (original) sources in their reading and
+critically read the seminal scholars’ work to ensure that they are not creating more ambiguity. 

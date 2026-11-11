@@ -1,0 +1,368 @@
+DEVELOPMENTAL RESEARCH: STUDIES OF
+INSTRUCTIONAL DESIGN AND DEVELOPMENT
+Rita C. Richey
+Wayne State University
+James D. Klein
+Arizona State University
+Wayne A. Nelson
+Southern Illinois University at Edwardsville
+41.1 INTRODUCTION
+The field of instructional technology has traditionally involved
+a unique blend of theory and practice. This blend is most obvious in developmental research, those studies that involve the
+production of knowledge with the ultimate aim of improving
+the processes of instructional design, development, and evaluation. Such research is based on either situation-specific problem solving or generalized inquiry procedures. Developmental
+research, as opposed to simple instructional development, has
+been defined as “the systematic study of designing, developing
+and evaluating instructional programs, processes and products
+that must meet the criteria of internal consistency and effectiveness” (Seels & Richey, 1994, p. 127). In its simplest form,
+developmental research can be either
+ the study of the process and impact of specific instructional
+design and development efforts; or
+ a situation in which someone is performing instructional design, development, or evaluation activities and studying the
+process at the same time; or
+ the study of the instructional design, development, and evaluation process as a whole or of particular process components.
+In each case the distinction is made between performing a process and studying that process. Reports of developmental research may take the form of a case study with retrospective
+analysis, an evaluation report, or even a typical experimental
+research report.
+The purposes of this chapter are to
+ explore the nature and background of developmental research;
+ describe the major types of developmental research by examining a range of representative projects;
+ analyze the methodological approaches used in the various
+types of developmental research;
+ describe the issues, findings, and trends in recent developmental research; and
+ discuss the future of this type of research in our field.
+41.2 THE NATURE OF DEVELOPMENTAL
+RESEARCH
+Today, even amid the calls for increased use of alternative research methodologies, the notion of developmental research is
+1099
+1100 • RICHEY, KLEIN, NELSON
+often unclear, not only to the broader community of educational
+researchers, but to many instructional technology researchers
+as well. An understanding of this topic is rooted in the nature
+of development and research in general, as well as a more specific understanding of the purpose, focus, and techniques of
+developmental research itself.
+41.2.1 The Character of Development
+Development, in its most generic sense, implies gradual growth,
+evolution, and change. This concept has been applied to diverse
+areas of study and practice. For example, organization development is a strategy for changing “the beliefs, attitudes, values,
+and structure of organizations so that they can better adapt to
+new . . . challenges” (Bennis, 1969, p. 2). Educators are familiar
+with the notion of professional or staff development. Lieberman
+and Miller (1992) define this as “the knowledge, skills, abilities,
+and the necessary conditions for teacher learning on the job”
+(p. 1045). This same concept is often applied to other professional areas. In the corporate arena, the term “executive development” also refers to learning processes, and in this setting
+learning, as a developmental activity, often integrates both classroom instruction and work experience (Smith, 1993). The most
+common use of the term “development,” however, is in relation
+to human growth and the field of developmental psychology.
+The term developmental research is most often confused with
+research in this field that concentrates on particular age groups,
+such as in the areas of adolescent development or life-span development.
+In the field of instructional technology, development has a
+particular, somewhat unique, connotation. The most current
+definition views development as “the process of translating the
+design specifications into physical form” (Seels & Richey, 1994,
+p. 35). In other words, it refers to the process of producing
+instructional materials. Development is viewed as one of the five
+major domains of theory and practice in the field.1 Even though
+this varies from many other uses of the term development, it is
+consistent with the fundamental attribute of being a process of
+growth, and in our field development is a very creative process.
+Historically development has been an ambiguous term to
+many instructional technologists and has generated considerable discussion regarding its proper interpretation. This debate has focused typically on the distinctions between instructional design and instructional development. Heinich, Molenda,
+Russell, and Smaldino (2002) define instructional development
+as “the process of analyzing needs, determining what content
+must be mastered, establishing educational goals, designing materials to reach the objectives, and trying out and revising the
+program in terms of learner achievement” (p. 445). They have
+been consistent in this orientation since the early editions of
+their influential book. Yet to many, this is a definition of the
+instructional systems design (ISD) process.
+The confusion has been further exacerbated. In 1977, Briggs
+defined instructional design as “the entire process of analysis of
+1In addition to development, the domains also include design, management, utilization, and evaluation.
+learning needs and goals and the development of a delivery system to meet the needs; includes development of instructional
+materials and activities; and tryout and revision of all instruction
+and learner assessment activities” (p. xx). In this interpretation
+design is the more generic term, encompassing both planning
+and production. The 1994 definition of the field attempts to clarify these issues by viewing design as the planning phase in which
+specifications are constructed, and development as the production phase in which the design specifications are actualized
+(Seels & Richey, 1994). This is not a new distinction (Cronbach
+& Suppes, 1969; National Center for Educational Research and
+Development, 1970), even though the past use of the term instructional developer (see Baker, 1973) typically referred to a
+person who was doing what today we would call both design
+and development. All would agree, however, that design and development are related processes, and Connop-Scollard (1991)
+has graphically demonstrated these relationships in a complex
+chart which identified hundreds of interrelated concepts.
+However, the word development has a broader definition
+when it is used within the research context than it has when
+used within the context of creating instructional products. The
+focus is no longer only on production, or even on both planning
+and production. It also includes comprehensive evaluation. As
+such, developmental research may well address not only formative, but also summative and confirmative evaluation. It may
+address not only needs assessment, but also broad issues of frontend analysis, such as contextual analysis issues as conceived by
+Tessmer and Richey (1997). When evaluation is approached in
+a comprehensive manner, the scope of the research effort is
+often correspondingly expanded to encompass product utilization and management, as well as product creation. Table 41.1
+displays the scope of development as discussed in this chapter.
+The next step beyond “Utilization & Maintenance” in the
+Table 41.1 schemata would be “Impact,” the follow-up analysis
+of the effects of an instructional product or program on the
+organization or the learner. This type of research typically falls
+within the scope of traditional evaluation research.
+41.2.2 The Character of Research
+Although research methodologies vary, there are key attributes
+that transcend the various research orientations and goals. An
+understanding of these characteristics can shed light on the
+process of developmental research.
+41.2.2.1 The Dimensions of Research. Research is typically viewed as a type of systematic investigation, and in education it typically is an empirical process that employs the systematic method (Crowl, 1996). One result of such efforts is the
+creation of knowledge. Even though research is typically rooted
+in societal problems, all knowledge produced by research is not
+necessarily in a form conducive to quick resolution of society’s
+problems. Some knowledge (which is usually generated by basic
+research) must be specifically transformed to enable its application to a given problem. Other knowledge (which is usually
+41. DEVELOPMENTAL RESEARCH • 1101
+TABLE 41.1. The Scope of Development in a Research Context
+Utilization &
+Design Development Maintenance
+Analysis and Planning for Production & Formative Usage, Management,
+Development, Evaluation, Evaluation Summative &
+Utilization, & Maintenance Confirmative Evaluation
+generated by applied research) lends itself to the immediate
+solution of practical problems. Developmental research clearly
+falls in the latter category. In this respect, it is similar to other
+methodologies such as action research.
+Although the objective of research is to produce knowledge,
+these products may take a variety of forms. Diesing (1991) has
+noted that
+. . . the philosophers suggest that social science produces at least three
+kinds of knowledge: (1) systems of laws which describe interconnected
+regularities in society; (2) descriptions, from the inside, of a way of life,
+community, person, belief system, or scientific community’s beliefs;
+(3) structural models, mathematical or verbal, of dynamic processes
+exemplified in particular cases. (p. 325)
+Research orientations tend to conform to the pursuit of a
+particular type of knowledge. Experimental research tends to
+contribute to the construction of a system of laws. Characteristic of this method is a series of routine checks to ensure selfcorrection throughout the research, and in the logical positivist
+tradition, such checks are considered to be rooted in objectivity (Kerlinger, 1964). Qualitative research primarily contributes
+to the development of “mirrors for man” so that we can see
+ourselves better (Kluckhohn, as noted in Diesing, 1991). In the
+various forms of qualitative research, context and contextual influences become an integral part of the investigation (Driscoll,
+1991; Mishler, 1979).
+Diesing’s third type of knowledge is process knowledge presented in model form. This is usually of great interest to instructional designers and developers, given our history of working
+with many kinds of process models, such as the graphic models
+of systematic design procedures and the models of media selection. When inquiry procedures result in this type of knowledge, these endeavors can legitimately be placed in the research
+realm.
+Another traditional characterization of research is as a facilitator of understanding and prediction. In this regard “understanding results from a knowledge of the process or dynamics of a
+theory. Prediction results from investigation of the outcomes of
+a theory” (Schwen, 1977, p. 8). These goals can be achieved
+by either (a) providing a logical explanation of reality, (b) anticipating the values of one variable based on those of other
+variables, or (c) determining the states of a model (Dubin, as
+cited by Schwen, 1977). While these ends, especially the first
+two, can be achieved through traditional research methodologies, the third is uniquely matched to the goals of developmental
+research. This was emphasized by Schwen (1977):
+Inquiry in educational technology may be associated with the planning,
+implementing, and/or evaluation of the management-of-learning process, where that process employs systematic technological analysis and
+synthesis . . . current definitions of technological process may be found
+in development models . . . (having) the common attributes of 1) disciplined analysis of problem, context, constraints, learners, and task,
+and 2) disciplined synthesis involving the design of replicable forms of
+instruction and formative and summative evaluation. (p. 9)
+41.2.2.2 The Relationships Between Research and Development. The traditional view of research is as the discovery
+of new knowledge and that of development is as the translation
+of that knowledge into a useful form (Pelz, 1967). This conceptual framework not only has been commonly subscribed to, but
+was subsequently extended into the research, development, and
+diffusion model (Brickell, Clark & Guba, as cited in Havelock,
+1971). Early research methods texts addressed development as
+the “research and development” process (Borg & Gall, 1971).
+The processes were separate, though related, dependent, and
+sequential. In some situations this orientation still prevails. This
+view emphasizes development’s function of linking practice to
+research and theory and recognizes the likelihood that instructional development can highlight researchable problems and,
+thus, serve as a vehicle for stimulating new research (Baker,
+1973).
+Stowe (1973) has shown the parallels between scientific research and the general methodology of instructional systems
+design (ISD). He notes that both
+ are objective, empirical problem-solving approaches;
+ employ procedural models “couched in the language of mathematics” (p. 167);
+ have a predictive power dependent on the degree to which
+they represent the most critical aspects of reality; and
+ can generate new problems and hypotheses.
+Nonetheless, Stowe rejected the proposition that systematic
+design procedures can be viewed as research to a great extent
+because of the inability of ISD to discover generalizable principles and its intent to produce context-specific solutions. In
+addition, Stowe cited the distinctions between ISD’s orientation toward explanations of “how” as opposed to research’s
+orientation toward explanations of “why.”
+In the contemporary orientation toward research, Stowe’s
+arguments can be interpreted as an overly rigid expression of
+positivist philosophy. The contextual richness of the typical design and development task increases the likelihood that research
+on such topics be especially ripe for a qualitative orientation.
+The ability to provide process explanations exemplifies a type of
+knowledge production using the Diesing framework, and an avenue to understanding and prediction using Schwen’s paradigm.
+Stowe’s arguments, drafted 30 years ago, could lead to diametrically opposite conclusions today, providing one accepts the
+1102 • RICHEY, KLEIN, NELSON
+premise that research can have a broader function than the creation of generalizable statements of law. We are taking the position that research can also result in context-specific knowledge
+and can serve a problem-solving function. This is true of developmental research, as it has commonly thought to be true of
+evaluation research.
+While instructional development typically builds on previous research, developmental research attempts to produce the
+models and principles that guide the design, development, and
+evaluation processes. As such, doing development and studying
+development are two different enterprises.
+41.2.3 The Background of Developmental Research
+The field of instructional technology as it exists today emerged
+primarily from a convergence of the fields of audiovisual education and instructional psychology. In audiovisual education
+the emphasis was on the role of media as an enhancement of
+the teaching/learning process and an aid in the communication
+process, and there was much interest in materials production.
+On the other hand, in instructional psychology the nature of
+the learner and the learning process took precedence over the
+nature of the delivery methodology, and there was much interest in instructional design. Complementing the instructional
+psychology roots was the application of systems theory to instruction that resulted in the instructional systems design movement (Seels & Richey, 1994). This conceptual and professional
+merger came to fruition in the 1960s and 1970s. During this
+period instructional design and development came to assume
+the role of the “linking science” that John Dewey had called for
+at the turn of the century (Reigeluth, 1983).
+Not surprisingly, it was during this same period that the
+term developmental research emerged. This new orientation
+was exemplified by the shift in topics between the first and
+the second Handbook of Research on Teaching (Gage, 1963;
+Travers, 1973). In the 1963 handbook, media was addressed as
+an area of research with a major emphasis on media comparison research, and all research methodologies considered were
+quantitative. In the 1973 handbook, media continued to be included as a research area, but the research methodologies were
+varied, including Eva Baker’s chapter on “The Technology of Instructional Development.”2 This chapter describes in detail the
+process of systematic product design, development, and evaluation. Of significance is the fact that the entire methodology
+section was titled “Methods and Techniques of Research and
+Development”.
+This was a period in which federal support of educational
+research mushroomed. Regional research and development laboratories were established and the ERIC system was devised for
+dissemination. Clifford (1973) estimated that appropriations for
+educational “research and development for 1966 through 1968
+alone equaled three-fourths of all funds ever made available”
+(p. 1). Research-based product and program development had
+2A history of instructional development is given by Baker (1973), who primarily summarizes the work in research-based product development from
+the turn of the century to 1970. Baker, however, does not address developmental research as it is presented in this chapter.
+become firmly established as part of the scientific movement in
+education. At this time, Wittrock (1967) hailed the use of empirical measurement and experimentation to explain product
+effectiveness. Such activities “could change the development of
+products into research with empirical results and theory generalizable to new problems” (p. 148).
+Hilgard (1964) characterized research as a continuum from
+basic research on topics not directly relevant to learning through
+the advocacy and adoption stages of technological development. Saettler (1990) maintained that the last three of Hilgard’s research categories were directly within the domain of
+instructional technology. These included laboratory, classroom,
+and special teacher research; tryout in “normal” classrooms;
+and advocacy and adoption. Note that these are portrayed as
+types of research, rather than applications of research, and they
+are all encompassed within the framework of developmental
+research.
+Although instructional technology is not the only field concerned with learning in applied settings, few would dispute
+the critical role played by these three types of research in our
+field. Moreover, our uniqueness among educational fields is not
+only our concern with technology, but rather our emphasis on
+the design, development, and use of processes and resources for
+learning (Seels & Richey, 1994). Given this definition of the field,
+developmental research is critically important to the evolution
+of our theory base.
+41.2.4 The Character of Developmental Research
+The distinctions between “doing” and “studying” design and
+development provide further clarification of developmental research activities. These distinctions can be described in terms
+of examining the focus, techniques, and tools of developmental
+research.
+41.2.4.1 The Focus of Developmental Research. The general purposes of research have been described as knowledge
+production, understanding, and prediction. Within this framework, developmental research has particular emphases that vary
+in terms of the extent to which the conclusions are generalizable
+or contextually specific. Table 41.2 portrays the relationships
+between the two general types of developmental research.
+The most straightforward developmental research projects
+fall into the first category in Table 41.2. This category typically
+involves situations in which the product development process
+used in a particular situation is described and analyzed and
+the final product is evaluated, such as McKenney’s (2002)
+documentation of the use of CASCADE-SEA, a computer-based
+support tool for curriculum development. Driscoll (1991) has
+used the term systems-based evaluation to describe a similar
+research paradigm. van den Akker (1999), on the other hand,
+prefers to label Type I research formative research. He further
+defines this type of research as “activities performed during
+the entire development process of a specific intervention,
+41. DEVELOPMENTAL RESEARCH • 1103
+TABLE 41.2. A Summary of the Two Types
+of Developmental Research
+Type 1 Type 2
+Emphasis Study of specific product or
+program design,
+development, &/or
+evaluation projects
+Study of design,
+development, or
+evaluation processes,
+tools, or models
+Product Lessons learned from
+developing specific
+products and analyzing
+the conditions that
+facilitate their use
+New design, development,
+and evaluation
+procedures &/or models,
+and conditions that
+facilitate their use
+Context-specific Generalized
+Conclusions ⇒⇒⇒⇒ Conclusions
+from exploratory studies through (formative and summative)
+evaluation studies” (p. 6).
+Some Type 1 developmental studies reflect traditional evaluation orientations in which the development process is not
+addressed, and only the product or program evaluation is described. An example of this type of study is O’Quin, Kinsey, and
+Beery’s (1987) report on the evaluation of a microcomputer
+training workshop for college personnel. Regardless of the nature of the Type 1 study, the results are typically context and
+product specific, even though the implications for similar situations may be discussed.
+The second type of developmental study is oriented toward a general analysis of design, development, or evaluation
+processes, addressed either as a whole or in terms of a particular component. They are similar to those studies Driscoll
+(1991) calls “model development and technique development
+research.” van den Akker (1999) calls them “reconstructive studies.” His term emphasizes the common (but not exclusive) situation in which this research takes place after the actual design
+and development process is completed.
+Tracey’s (2002) study is an example of Type 2 developmental
+research that has a global design orientation. She constructed
+and validated an instructional systems design model that incorporated Gardner’s notion of multiple intelligences. Taylor and
+Ellis’(1991) study had a similar orientation, although their orientation was far different. They evaluated the use of instructional
+systems design in the Navy. Other studies in this category focus on only one phase of the design/development/evaluation
+process, such as Jonassen’s (1988) case study of using needs
+assessment data in the development of a university program.
+Type 2 research may draw its population either from one target
+project such as King and Dille’s (1993) study of the application
+of quality concepts in the systematic design of instruction at
+the Motorola Training and Education Center or from a variety of
+design and development environments. Examples of the latter
+approach include Riplinger’s (1987) survey of current task analysis procedures and Hallamon’s similar study conducted in 2001.
+Typically, conclusions from Type 2 developmental research are
+generalized, even though there are instances of context-specific
+conclusions in the literature.
+41.2.4.2 Nondevelopmental Research in the Field. A critical aspect of any concept definition is the identification of
+nonexamples as well as examples. This is especially important
+with respect to developmental research, as it often seems to
+overlap with other key methodologies used in the field. Even
+so, developmental research does not encompass studies such
+as the following:
+ instructional psychology studies,
+ media or delivery system comparison or impact studies,
+ message design and communication studies,
+ policy analysis or formation studies, and
+ research on the profession.
+While results from research in these areas impact the development process, the study of variables embedded in such
+topics does not constitute developmental research. For example, design and development is dependent on what we know
+about the learning process. We have learned from the research
+literature that transfer of training is impacted by motivation,
+organizational climate, and previous educational experiences.
+Therefore, one may expand a front-end analysis to address such
+issues, or even construct design models that reflect this information, but the foundational research would not be considered
+developmental. If the new models were tested, or programs designed using such models were evaluated, this research would
+qualify as developmental.
+A fundamental distinction should be made between reports
+that analyze actual development projects and descriptions of
+recommended design and development procedural models. Although these models may represent a synthesis of the research,
+they do not constitute research in themselves. A good example
+of the latter situation is Park and Hannafin’s (1993) guidelines
+for designing interactive multimedia. These guidelines are generalized principles that speak to the development process, and
+they are based on a large body of research. Nonetheless, the
+identification and explanation of the guidelines is not in itself
+an example of developmental research. The instructional technology literature includes many examples of such work. They often provide the stimulus for a line of new research, even though
+these articles themselves are not considered to be research reports themselves. There are many examples today of such work,
+including explorations of topics such as cognitive task analysis
+(Ryder & Redding, 1993) and the nature of design and designer
+decision making (Rowland, 1993)
